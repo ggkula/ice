@@ -1,0 +1,19 @@
+{
+  "name": "zzjz-ice",
+  "version": "1.0.0",
+  "description": "forked from zeroc/ice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ice/ice.git"
+  },
+  "author": "gg_kula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ice/ice/issues"
+  },
+  "homepage": "https://github.com/ice/ice#readme"
+}
