@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ice/ice.git"
+    "url": "git+https://github.com/ggkula/ice.git"
   },
   "author": "gg_kula",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ice/ice/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.7"
   },
   "homepage": "https://github.com/ice/ice#readme"
 }
